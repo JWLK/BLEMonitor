@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1FD6FF</color>
+    <color name="colorPrimaryDark">#05C7F2</color>
+    <color name="colorAccent">#04C4D9</color>
+
+    # Default Color
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    # Text Main Color
+    <color name="colorMainBackground">#F5F5F5</color>
+    <color name="colorMainBlack">#1a1a1a</color>
+    <color name="colorSubBlack">#222222</color>
+    <color name="colorActiveBlue">#4257B2</color>
+    <color name="colorSubBlueR">#768BE4</color>
+    <color name="colorSubBlueRT">#33768BE4</color>
+    <color name="colorSubBlueL">#ACBCFF</color>
+    <color name="colorDarkBlue">#0D1A52</color>
+
+    <color name="colorMainRed">#7D3240</color>
+
+    <color name="colorRegularBlue">#05C7F2</color>
+    <color name="colorRegularBlueT">#3305C7F2</color>
+    <color name="colorLightBlue">#1FD6FF</color>
+    <color name="colorActiveGreen">#04C4D9</color>
+    <color name="colorSubGreenR">#04D9C4</color>
+    <color name="colorSubGreenL">#05F2C7</color>
+
+
+    # Text Gray Color
+    <color name="colorGrayFB">#FBFBFB</color>
+    <color name="colorGrayBE">#BEBEBE</color>
+    <color name="colorGray80">#808080</color>
+    <color name="colorGray77">#777777</color>
+    <color name="colorGray64">#646464</color>
+    <color name="colorGray54">#545353</color>
+    <color name="colorGray4D">#4D4D4D</color>
+
+    <color name="colorKakao">#FFCD00</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="colorReadYellow">#FBE467</color>
+    <color name="colorPlayGreen">#B7FB67</color>
+    <color name="colorPauseRed">#FB7E67</color>
+
+</resources>
